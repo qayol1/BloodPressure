@@ -1,0 +1,9 @@
+C:\Csharp\BloodPressure\BloodPressure\bin\Debug\BloodPressure.exe.config
+C:\Csharp\BloodPressure\BloodPressure\bin\Debug\BloodPressure.exe
+C:\Csharp\BloodPressure\BloodPressure\bin\Debug\BloodPressure.pdb
+C:\Csharp\BloodPressure\BloodPressure\obj\Debug\BloodPressure.csprojResolveAssemblyReference.cache
+C:\Csharp\BloodPressure\BloodPressure\obj\Debug\BloodPressure.Properties.Resources.resources
+C:\Csharp\BloodPressure\BloodPressure\obj\Debug\BloodPressure.csproj.GenerateResource.Cache
+C:\Csharp\BloodPressure\BloodPressure\obj\Debug\BloodPressure.exe
+C:\Csharp\BloodPressure\BloodPressure\obj\Debug\BloodPressure.pdb
+C:\Csharp\BloodPressure\BloodPressure\obj\Debug\BloodPressure.Main.resources
